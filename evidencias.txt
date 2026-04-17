@@ -1,0 +1,15 @@
+SPA: Es una aplicación web que funciona en una sola página y no necesita recargar para mostrar nuevo contenido.
+
+Ventaja: Es más rápida y fluida para el usuario.
+
+React: Es una biblioteca que permite crear interfaces usando componentes reutilizables.
+
+
+- SPA no recarga toda la página / Tradicional sí recarga
+- SPA es más rápida / Tradicional más lenta
+- SPA mejor experiencia de usuario
+- SPA usa componentes / Tradicional usa páginas separadas
+
+Versión de Node.js: v20.10.0
+Versión de npm: 10.2.3
+Editor usado: Visual Studio Codc
